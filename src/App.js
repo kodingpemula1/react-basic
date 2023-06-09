@@ -17,6 +17,7 @@ function App() {
       <h2>{process.env.REACT_APP_WEBSITE_NAME}</h2>
       <h2 style={{ fontStyle: 'italic', color: 'blue' }}>Copyright 2023</h2>
       </div>
+      <div></div>
     </div>
   );
 }
