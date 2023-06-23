@@ -1,3 +1,32 @@
+
+.HeaderBorder {
+  border: 10px solid;
+  width: 500px;
+
+}
+
+.HeaderBorder-yellow {
+  border-color: yellow;
+  
+}
+
+.HeaderBorder-red {
+  border-color: red;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
